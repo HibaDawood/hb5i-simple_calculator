@@ -4,7 +4,7 @@ This is a simple calculator.
 <h1 align="center">Hi 👋, I'm Hiba M.Dawood</h1>
 <h3 align="center">I am a beginner programmer from Pakistan.</h3>
 
-
+<img align="right" alt="coding" width="400"
 <p align="left"> <img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" alt="hibadawood" /> </p>
 
 - 🔭 I’m currently working on [100-days-of-coding](https://github.com/HibaDawood)
