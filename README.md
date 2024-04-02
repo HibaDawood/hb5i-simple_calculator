@@ -4,6 +4,8 @@ This is a simple calculator.
 <h1 align="center">Hi 👋, I'm Hiba M.Dawood</h1>
 <h3 align="center">I am a beginner programmer from Pakistan.</h3>
 
+https://medium.com/schaffen-softwares/how-i-ended-up-deciding-to-pursue-my-under-graduation-in-computer-science-engineering-2605e30b5f91
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hibadawood&label=Profile%20views&color=0e75b6&style=flat" alt="hibadawood" /> </p>
 
 - 🔭 I’m currently working on [100-days-of-coding](https://github.com/HibaDawood)
