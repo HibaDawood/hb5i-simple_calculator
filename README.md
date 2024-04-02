@@ -3,8 +3,7 @@ This is a simple calculator.
 
 <h1 align="center">Hi 👋, I'm Hiba M.Dawood</h1>
 <h3 align="center">I am a beginner programmer from Pakistan.</h3>
-
-https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg
+<img align="right alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hibadawood&label=Profile%20views&color=0e75b6&style=flat" alt="hibadawood" /> </p>
 
