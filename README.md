@@ -5,7 +5,7 @@ This is a simple calculator.
 <h3 align="center">A passionate full-stack developer from Pakistan.</h3>
 
 
-<p align="left"> <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" alt="hibadawood" /> </p>
+<p align="left"> <img align="right" alt="coding" width="350" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" alt="hibadawood" /> </p>
 
 - 🔭 I’m currently working on [100-days-of-coding](https://github.com/HibaDawood)
 
