@@ -7,7 +7,6 @@ This is a simple calculator.
 
 <p align="left"> <img align="right" alt="coding" width="350" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" alt="hibadawood" /> </p>
 
-- 🔭 I’m currently working on [100-days-of-coding](https://github.com/HibaDawood)
 
 - 🌱 I’m currently learning **cloud Applied generative AI**
 
@@ -15,12 +14,9 @@ This is a simple calculator.
 
 - 💬 Ask me about **Scalable, creative, cloud-based AI solution.**
 
-- 📫 How to reach me **hibam.dawood25@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hiba m dawood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiba m dawood" height="30" width="40" /></a>
-<a href="https://discord.gg/hiba043785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hiba043785" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
