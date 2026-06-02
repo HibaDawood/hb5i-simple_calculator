@@ -22,5 +22,5 @@ A clean and efficient command-line calculator application built using TypeScript
 
 3. Compile and execute the application:
 
-```bash
-npx tsc && node index.js
+   ```bash
+   npx tsc && node index.js
